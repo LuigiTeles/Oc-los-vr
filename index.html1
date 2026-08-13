@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelos VR - Mundo VR</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">🥽 Mundo VR</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html" class="active">Modelos & Tecnologia</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="content-page">
+        <h2>Principais Categorias de Óculos VR</h2>
+        <p>Conheça os diferentes tipos de dispositivos disponíveis no mercado atual:</p>
+
+        <section class="grid-models">
+            <article class="model-box">
+                <h3>1. Óculos Standalone (Autônomos)</h3>
+                <p>Não precisam de PC ou consoles. Possuem processador, bateria e sensores embutidos no próprio headset.</p>
+                <span>Exemplo: Meta Quest 3</span>
+            </article>
+
+            <article class="model-box">
+                <h3>2. Óculos PC-VR</h3>
+                <p>Conectados a computadores de alta performance via cabo ou Wi-Fi. Oferecem os melhores gráficos possíveis.</p>
+                <span>Exemplo: Valve Index, HTC Vive</span>
+            </article>
+
+            <article class="model-box">
+                <h3>3. Óculos de Console</h3>
+                <p>Projetados especificamente para funcionar integrados a videogames modernos de última geração.</p>
+                <span>Exemplo: PlayStation VR2</span>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Mundo VR - Projeto Open Source no GitHub</p>
+    </footer>
+
+</body>
+</html>
