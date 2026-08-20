@@ -12,8 +12,8 @@
         <div class="logo">🥽 Mundo VR</div>
         <nav>
             <ul>
-                <li><a href="index.html">Início</a></li>
-                <li><a href="sobre.html" class="active">Modelos & Tecnologia</a></li>
+                <li><a href="index.html1">Início</a></li>
+                <li><a href="sobre.html1" class="active">Modelos & Tecnologia</a></li>
             </ul>
         </nav>
     </header>
